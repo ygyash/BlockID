@@ -30,8 +30,8 @@ By saying ethereum based identity, it’s meant that every user will be assigned
 ## Running Locally :
 Cloning and installing dependencies
 ```
-  git clone https://github.com/hackabit18/Ether_bots
-  cd Ether_bots
+  git clone https://github.com/ygyash/BlockID
+  cd BlockID
   npm install
 ```
 Start the server on port 3000 :
