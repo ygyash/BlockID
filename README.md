@@ -1,4 +1,4 @@
-# Ether_bots
+# BlockID
 *Ethereum based Unique Identity System for Students and Refugees*
 
 ![abcd](https://user-images.githubusercontent.com/26346816/47611428-45bb1d00-da8b-11e8-8363-7e08bcf95ec7.gif)
